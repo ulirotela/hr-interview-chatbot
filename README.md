@@ -78,4 +78,4 @@ hr-interview-chatbot/
 ## Author
 
 **Uli Rotela** — Junior AI Engineer  
-[GitHub](https://github.com/ulirotela) · [LinkedIn](https://linkedin.com/in/ulirotela)
+[GitHub](https://github.com/ulirotela) · [LinkedIn](https://www.linkedin.com/in/ulices-rotela-7323a4173/)
