@@ -4,7 +4,7 @@ An AI-powered interview simulator built with GPT-4o and Streamlit. Practice job 
 
 ## Demo
 
-![Interview Setup](https://via.placeholder.com/800x400?text=Add+a+screenshot+here)
+![Demo](hr-inter-pro.jpeg)
 
 ## Features
 
